@@ -7,7 +7,7 @@
 
 **Be sure to give this repo a star ⭐**
 # Support and credit ✒
-**Developer : [DevEvil](https://devevil.xyz)** 💻
+**Developer : [DevEvil](https://devevil.com)** 💻
 
 **Donate (Iranian Users Only) : [IDPay](https://idpay.ir/devevil)** ❤
 
